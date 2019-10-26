@@ -11,6 +11,7 @@
 
 ### 安装
 
+* 请用`百度网盘`2.2.2。新版本2.2.4[不行](https://github.com/dlxg/BaiduNetdiskPlugin-macOS/issues/1)。
 * 点击`clone or download`下载项目，解压运行`libBaiduNetdiskPlugin.xcodeproj`，然后`Edit Schemes`->`Executable`->`Other`->选择`百度网盘`。然后运行工程，因为百度网盘有 VMProtect加壳，运行后会有以下提示：
 ![baidubetdiskplugin_2](./Other/Screenshots/baidubetdiskplugin_2.png)
 直接点击OK。
